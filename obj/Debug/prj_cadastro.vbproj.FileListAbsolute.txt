@@ -1,0 +1,66 @@
+C:\Users\Aluno\Desktop\prj_cadastro\bin\Debug\prj_cadastro.exe.config
+C:\Users\Aluno\Desktop\prj_cadastro\bin\Debug\prj_cadastro.exe
+C:\Users\Aluno\Desktop\prj_cadastro\bin\Debug\prj_cadastro.pdb
+C:\Users\Aluno\Desktop\prj_cadastro\bin\Debug\prj_cadastro.xml
+C:\Users\Aluno\Desktop\prj_cadastro\obj\Debug\prj_cadastro.vbproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\prj_cadastro\obj\Debug\prj_cadastro.Form1.resources
+C:\Users\Aluno\Desktop\prj_cadastro\obj\Debug\prj_cadastro.Resources.resources
+C:\Users\Aluno\Desktop\prj_cadastro\obj\Debug\prj_cadastro.vbproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\prj_cadastro\obj\Debug\prj_cadastro.vbproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\prj_cadastro\obj\Debug\prj_cadastro.exe
+C:\Users\Aluno\Desktop\prj_cadastro\obj\Debug\prj_cadastro.xml
+C:\Users\Aluno\Desktop\prj_cadastro\obj\Debug\prj_cadastro.pdb
+C:\Users\Aluno\Desktop\prj_cadastro\obj\Debug\prj_cadastro.frm_cadastro.resources
+D:\DADOS\20252S\prj_cadastro\bin\Debug\prj_cadastro.exe.config
+D:\DADOS\20252S\prj_cadastro\bin\Debug\prj_cadastro.exe
+D:\DADOS\20252S\prj_cadastro\bin\Debug\prj_cadastro.pdb
+D:\DADOS\20252S\prj_cadastro\bin\Debug\prj_cadastro.xml
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.vbproj.AssemblyReference.cache
+D:\DADOS\20252S\prj_cadastro\obj\Debug\Interop.ADODB.dll
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.vbproj.ResolveComReference.cache
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.Form1.resources
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.frm_cadastro.resources
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.Resources.resources
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.vbproj.GenerateResource.cache
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.vbproj.CoreCompileInputs.cache
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.exe
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.xml
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.pdb
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_completo\bin\Debug\prj_cadastro.exe.config
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_completo\bin\Debug\prj_cadastro.exe
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_completo\bin\Debug\prj_cadastro.pdb
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_completo\bin\Debug\prj_cadastro.xml
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_completo\obj\Debug\prj_cadastro.vbproj.AssemblyReference.cache
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_completo\obj\Debug\prj_cadastro.exe.config
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_completo\obj\Debug\Interop.ADODB.dll
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_completo\obj\Debug\prj_cadastro.vbproj.ResolveComReference.cache
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_completo\obj\Debug\prj_cadastro.Form1.resources
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_completo\obj\Debug\prj_cadastro.frm_cadastro.resources
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_completo\obj\Debug\prj_cadastro.Resources.resources
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_completo\obj\Debug\prj_cadastro.vbproj.GenerateResource.cache
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_completo\obj\Debug\prj_cadastro.vbproj.CoreCompileInputs.cache
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_completo\obj\Debug\prj_cadastro.exe
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_completo\obj\Debug\prj_cadastro.xml
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_completo\obj\Debug\prj_cadastro.pdb
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_completo\obj\Debug\prj_cadastro.cadastro.resources
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_completo\obj\Debug\prj_cadastro.login.resources
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_completo\obj\Debug\prj_cadastro.gerenciar.resources
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_aula\projeto_completo\bin\Debug\prj_cadastro.exe.config
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_aula\projeto_completo\bin\Debug\prj_cadastro.exe
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_aula\projeto_completo\bin\Debug\prj_cadastro.pdb
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_aula\projeto_completo\bin\Debug\prj_cadastro.xml
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_aula\projeto_completo\obj\Debug\prj_cadastro.vbproj.AssemblyReference.cache
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_aula\projeto_completo\obj\Debug\Interop.ADODB.dll
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_aula\projeto_completo\obj\Debug\prj_cadastro.vbproj.ResolveComReference.cache
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_aula\projeto_completo\obj\Debug\prj_cadastro.Form1.resources
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_aula\projeto_completo\obj\Debug\prj_cadastro.cadastro.resources
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_aula\projeto_completo\obj\Debug\prj_cadastro.login.resources
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_aula\projeto_completo\obj\Debug\prj_cadastro.gerenciar.resources
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_aula\projeto_completo\obj\Debug\prj_cadastro.frm_cadastro.resources
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_aula\projeto_completo\obj\Debug\prj_cadastro.Resources.resources
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_aula\projeto_completo\obj\Debug\prj_cadastro.vbproj.GenerateResource.cache
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_aula\projeto_completo\obj\Debug\prj_cadastro.vbproj.CoreCompileInputs.cache
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_aula\projeto_completo\obj\Debug\prj_cadastro.exe
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_aula\projeto_completo\obj\Debug\prj_cadastro.xml
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_aula\projeto_completo\obj\Debug\prj_cadastro.pdb
+D:\Fatec\2º Semestre\Sistemas de informação\projeto_aula\projeto_completo\obj\Debug\prj_cadastro.exe.config
