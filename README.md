@@ -5,7 +5,7 @@ Sistema simples de login em VBScript para fins acadêmicos.
 
 ## 🛠️ Tecnologias Utilizadas
 - VBScript
-- Windows Script Host
+- SQL
 
 ## 👤 Credenciais de Acesso
 ```plaintext
